@@ -137,4 +137,3 @@ def hangman_game(filename):
     print("  |    " + ("/ \\"))
     print("__|__")
     print('')
-    
